@@ -1,23 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7b2ff7&height=200&section=header&text=Jaidev%20M%20V&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C3%97%20ML%20Engineer%20%C3%97%20Applied%20AI&descAlignY=60&descSize=20" width="100%" />
+<img src="./banner.png" width="100%" alt="Jaidev M V: Software Engineer x ML Engineer" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+intelligent%2C+real-world+AI+systems;Computer+Vision+%7C+Digital+Twins+%7C+Full-Stack;Author+of+4+research+publications;Preparing+for+Software+Engineering+roles" alt="Typing SVG" /></a>
-
-<br/>
-
-![AI/ML](https://img.shields.io/badge/AI%2FML-7b2ff7?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ML Engineering](https://img.shields.io/badge/ML_Engineering-4f46e5?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-0ea5e9?style=for-the-badge&logo=opencv&logoColor=white)
-![Digital Twins](https://img.shields.io/badge/Digital_Twins-10b981?style=for-the-badge&logo=databricks&logoColor=white)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-8b5cf6?style=for-the-badge&logo=react&logoColor=white)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+intelligent%2C+real-world+AI+systems;Computer+Vision+%7C+Digital+Twins+%7C+Full-Stack;Open+to+Software+Engineering%2C+Data+Science+%26+ML+roles" alt="Typing SVG" /></a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaidevmv)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaidev2006murali@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](./Jaidev_M_V_Resume.pdf)
-![Profile Views](https://komarev.com/ghpvc/?username=Jaidev20006&label=Profile%20Views&color=7b2ff7&style=for-the-badge)
 
 </div>
 
@@ -25,22 +16,12 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science & Engineering undergraduate at Kumaraguru College of Technology (KCT), Coimbatore** (2024 – 2028, CGPA **8.89 / 10**), focused on Software Engineering and Machine Learning.
-I turn real-world problems into practical, scalable and reliable AI systems, from computer vision on construction sites to RAG assistants for governance.
+I'm a **Computer Science & Engineering undergraduate at Kumaraguru College of Technology (KCT), Coimbatore** (2024 – 2028, CGPA **8.89 / 10**). I turn real-world problems into practical, scalable and reliable AI systems, from computer vision on construction sites to RAG assistants for governance.
 
-- 🏗️ Interning at **L&T Construction** through the KCIRI industry collaboration
-- 🔬 Author of **4 research publications**, recipient of the **Young Research Excellence Award (2025–26)**
-- 🎯 Leading **3 technical communities**: IEEE Computer Society, GDG On Campus, HAM Club
-- 🚀 Preparing for **Software Engineering roles**
-
-### ⚡ Currently
-
-| | |
-|---|---|
-| 🏗️ | AI & Software Engineer Intern @ **L&T Construction** (KCIRI) |
-| ✈️ | Developing **VAYUVED**, a UAV engine digital twin (SIH 2026) |
-| 🐄 | Working on **SmartHerd** (IEEE EPICS) |
-| 📚 | Preparing for Software Engineering roles |
+- 🏗️ AI & Software Engineer Intern at **L&T Construction** (through KCIRI)
+- ✈️ Developing **VAYUVED**, a UAV engine digital twin (SIH 2026)
+- 🐄 Working on **SmartHerd** (IEEE EPICS)
+- 🎯 Looking for **Software Engineering, Data Science and ML roles**
 
 ---
 
@@ -241,20 +222,17 @@ Heat-stress detection and monitoring for dairy cattle, built as part of the IEEE
 - 💡 Hackathons: **Top 4 / 100** (CivicBot), **Top 10 / 678** (NEXOVATE '25)
 - 🧑‍🏫 **GDG Hack for Impact 2026**: Mentor & Evaluator (55 teams)
 - 🎓 **2× Mahatma Gandhi Merit Scholar**
-- ☁️ AWS Builder Center: Event Participant · IEEE Xtreme: Registered
+- ☁️ **AWS Builder Center**: Event Participant
+- 🌐 **IEEE Xtreme 2026**: Registered
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaidev20006&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaidev20006&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-
-<img src="https://streak-stats.demolab.com?user=Jaidev20006&theme=radical&hide_border=true&background=0d1117" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaidev20006&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=7b2ff7&point=ffffff" width="100%" />
 
 </div>
 
@@ -262,7 +240,7 @@ Heat-stress detection and monitoring for dairy cattle, built as part of the IEEE
 
 ## 📫 Let's Connect
 
-I'm open to **Software Engineering / AI Engineering internships and roles**, research collaborations and interesting projects.
+Reach out for internships, full-time roles, research collaborations or interesting projects.
 
 - 📧 [jaidev2006murali@gmail.com](mailto:jaidev2006murali@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaidevmv)
