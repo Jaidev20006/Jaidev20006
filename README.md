@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Jaidev M V: Software Engineer x ML Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7b2ff7&height=200&section=header&text=Jaidev%20M%20V&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C3%97%20ML%20Engineer%20%C3%97%20Applied%20AI&descAlignY=60&descSize=20" width="100%" alt="Jaidev M V" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+intelligent%2C+real-world+AI+systems;Computer+Vision+%7C+Digital+Twins+%7C+Full-Stack;Open+to+Software+Engineering%2C+Data+Science+%26+ML+roles" alt="Typing SVG" /></a>
 
@@ -17,6 +17,8 @@
 ## 👋 About Me
 
 I'm a **Computer Science & Engineering undergraduate at Kumaraguru College of Technology (KCT), Coimbatore** (2024 – 2028, CGPA **8.89 / 10**). I turn real-world problems into practical, scalable and reliable AI systems, from computer vision on construction sites to RAG assistants for governance.
+
+### ⚡ Currently
 
 - 🏗️ AI & Software Engineer Intern at **L&T Construction** (through KCIRI)
 - ✈️ Developing **VAYUVED**, a UAV engine digital twin (SIH 2026)
